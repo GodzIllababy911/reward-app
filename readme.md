@@ -229,7 +229,7 @@ CREATE TABLE transactions (
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/GodzIllababy911/reward-app.git
 cd app
 ```
 
